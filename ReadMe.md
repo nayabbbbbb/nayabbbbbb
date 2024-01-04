@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gul-e-Nayab</h1>
 <h3 align="center">The green dots on my profile represents my learning journey.</h3>
-<img align = "right" alt = "coding" width = "400" src = "https://img.freepik.com/free-vector/cute-girl-working-laptop-cartoon_138676-2958.jpg?w=740&t=st=1691126222~exp=1691126822~hmac=dfc1ee855abb49b5ad2a9c3c4dc94b36e85ee2f55a00517b1efc948dfc6327da">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulenayab" alt="gulenayab" /></a> </p>
 
